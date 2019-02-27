@@ -1,0 +1,25 @@
+BÁO CÁO BÀI TÂP MÔN KIẾN TRC HƯỚNG DỊCH VỤ LẦN 02
+--------------------------------------------------
+Thành viên: Phạm Văn Trọng
+	    Vũ Ngọc Chi
+	    Nguyễn Văn Minh
+--------------------------------------------------
+Chạy code: 
+B1: Mở thư mục source code (BookRMI/src). Mở 2 console (terminal), một để chạy Server, một để chạy Client.
+B2: compile và chạy Server:
+	javac Server.java && java Server
+Kết quả: Listening ....
+
+B3: compile và chạy Client
+	javac Client.java && java Client
+	
+Kết quả: 
+	Insert book Java Successfully! // Thêm sách thành công
+	Insert book HTML Successfully!
+	Insert book Python Successfully!
+	Insert book Javascript Successfully!
+	Insert book CSS Successfully!
+	Book: Java; Id: 1; Author: PVT; ISBN: 00000001 // getBook thành công
+
+Hình ảnh:  xem file "result.png"
+
