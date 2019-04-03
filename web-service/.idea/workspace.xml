@@ -2,20 +2,148 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="289b1fdc-9395-404a-a2e6-187c3b33c29d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../SOA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/JA/JA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/JA/lib/FastInoset.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/JA/lib/gmbal-api-only.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/JA/lib/ha-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/JA/lib/javax.annotation.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/JA/lib/jaxb-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/JA/lib/jaxb-impl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/JA/lib/jaxb-xjc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/JA/lib/jaxws-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/JA/lib/jaxws-rt.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/JA/lib/jaxws-tools.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/JA/lib/jsr181-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/JA/lib/mail.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/JA/lib/management-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/JA/lib/mimepull.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/JA/lib/policy.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/JA/lib/saaj-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/JA/lib/saaj-impl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/JA/lib/stax-ex.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/JA/lib/stax2-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/JA/lib/streambuffer.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/JA/lib/woodstox-core-asl.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../grpc/JA/src/example/HelloWorld.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../grpc/JA/web/WEB-INF/sun-jaxws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/JA/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/JA/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/gRPC-report.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/java/grpc-demos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/java/java-server/java-server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/java/java-server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/java/java-server/src/main/java/grpc/greeter/server/JavaGrpcServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/java/java-server/src/main/proto/services.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/java/java-server/target/classes/ExampleServices.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/java/java-server/target/classes/services.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/java/java-server/target/generated-sources/protobuf/grpc-java/grpc/greeter/GreetingServiceGrpc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/java/java-server/target/generated-sources/protobuf/java/grpc/greeter/HelloRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/java/java-server/target/generated-sources/protobuf/java/grpc/greeter/HelloRequestOrBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/java/java-server/target/generated-sources/protobuf/java/grpc/greeter/HelloResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/java/java-server/target/generated-sources/protobuf/java/grpc/greeter/HelloResponseOrBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/java/java-server/target/generated-sources/protobuf/java/grpc/greeter/Services.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/java/java-server/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/java/java-server/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/java/java-server/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/java/java-server/target/protoc-dependencies/e1ed6c4dc5bc3386579b7f0df1ecd1ce/google/protobuf/any.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/java/java-server/target/protoc-dependencies/e1ed6c4dc5bc3386579b7f0df1ecd1ce/google/protobuf/api.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/java/java-server/target/protoc-dependencies/e1ed6c4dc5bc3386579b7f0df1ecd1ce/google/protobuf/compiler/plugin.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/java/java-server/target/protoc-dependencies/e1ed6c4dc5bc3386579b7f0df1ecd1ce/google/protobuf/descriptor.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/java/java-server/target/protoc-dependencies/e1ed6c4dc5bc3386579b7f0df1ecd1ce/google/protobuf/duration.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/java/java-server/target/protoc-dependencies/e1ed6c4dc5bc3386579b7f0df1ecd1ce/google/protobuf/empty.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/java/java-server/target/protoc-dependencies/e1ed6c4dc5bc3386579b7f0df1ecd1ce/google/protobuf/field_mask.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/java/java-server/target/protoc-dependencies/e1ed6c4dc5bc3386579b7f0df1ecd1ce/google/protobuf/source_context.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/java/java-server/target/protoc-dependencies/e1ed6c4dc5bc3386579b7f0df1ecd1ce/google/protobuf/struct.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/java/java-server/target/protoc-dependencies/e1ed6c4dc5bc3386579b7f0df1ecd1ce/google/protobuf/timestamp.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/java/java-server/target/protoc-dependencies/e1ed6c4dc5bc3386579b7f0df1ecd1ce/google/protobuf/type.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/java/java-server/target/protoc-dependencies/e1ed6c4dc5bc3386579b7f0df1ecd1ce/google/protobuf/wrappers.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/java/java-server/target/protoc-plugins/protoc-3.3.0-linux-x86_64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/java/java-server/target/protoc-plugins/protoc-gen-grpc-java-1.4.0-linux-x86_64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/java/java-server/target/simple-grpc-server-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/java/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/python3-client/helloworld/README-python.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/python3-client/helloworld/greeter_client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/python3-client/helloworld/protos/services.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/python3-client/helloworld/services_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/python3-client/helloworld/services_pb2_grpc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/ruby/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/ruby/Gemfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/ruby/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/ruby/errors_and_cancellation/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/ruby/errors_and_cancellation/error_examples_client.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/ruby/errors_and_cancellation/error_examples_server.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/ruby/greeter_client.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/ruby/greeter_server.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/ruby/grpc-demo.gemspec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/ruby/lib/route_guide_pb.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/ruby/lib/route_guide_services_pb.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/ruby/lib/services_pb.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/ruby/lib/services_services_pb.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/ruby/protos/services.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/ruby/pubsub/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/ruby/pubsub/Gemfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/ruby/pubsub/google/protobuf/empty.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/ruby/pubsub/pubsub_demo.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/ruby/pubsub/tech/pubsub/proto/pubsub.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/ruby/pubsub/tech/pubsub/proto/pubsub_services.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/ruby/route_guide/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/ruby/route_guide/route_guide_client.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/ruby/route_guide/route_guide_server.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/ruby/without_protobuf/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/ruby/without_protobuf/echo_client.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/ruby/without_protobuf/echo_server.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpc/ruby/without_protobuf/echo_services_noprotobuf.rb" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/test.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vtnc/web/GreetingService.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/sun-jaxws.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/vtnc/web/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GreetingService.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GreetingService/WEB-INF/lib/activation-1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GreetingService/WEB-INF/lib/gmbal-api-only-3.0.0-b023.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GreetingService/WEB-INF/lib/istack-commons-runtime-3.0.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GreetingService/WEB-INF/lib/jakarta.activation-api-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GreetingService/WEB-INF/lib/jaxb-api-2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GreetingService/WEB-INF/lib/jaxb-impl-2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GreetingService/WEB-INF/lib/jaxws-api-2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GreetingService/WEB-INF/lib/jaxws-rt-2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GreetingService/WEB-INF/lib/jsr181-api-1.0-MR1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GreetingService/WEB-INF/lib/jsr250-api-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GreetingService/WEB-INF/lib/management-api-3.0.0-b012.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GreetingService/WEB-INF/lib/mimepull-1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GreetingService/WEB-INF/lib/policy-2.0-b01.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GreetingService/WEB-INF/lib/resolver-20050927.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GreetingService/WEB-INF/lib/saaj-api-1.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GreetingService/WEB-INF/lib/saaj-impl-1.3.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GreetingService/WEB-INF/lib/stax-api-1.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GreetingService/WEB-INF/lib/stax-api-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GreetingService/WEB-INF/lib/stax-ex-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GreetingService/WEB-INF/lib/streambuffer-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GreetingService/WEB-INF/lib/txw2-20090102.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GreetingService/WEB-INF/lib/wstx-asl-3.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GreetingService/WEB-INF/lib/wstx-asl-3.2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GreetingService/WEB-INF/sun-jaxws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/GreetingService/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.vtnc.web.AppTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/com.vtnc.web.AppTest.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/web-service.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BookRMI/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BookRMI/.idea/description.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BookRMI/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BookRMI/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BookRMI/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BookRMI/.idea/misc.xml" afterDir="false" />
@@ -44,6 +172,7 @@
       <change beforePath="$PROJECT_DIR$/../RMI/src/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RMI/src/Server.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../socket/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../socket/Client.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../socket/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/../socket/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -53,64 +182,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/vtnc/web/GreetingService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/sun-jaxws.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="42" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="165">
-                <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web-service.iml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="41" column="31" selection-start-line="41" selection-start-column="31" selection-end-line="41" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -140,28 +212,13 @@
     <panes>
       <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="web-service" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web-service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="web-service" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web-service" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554268005988" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554268239218" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -188,16 +245,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554260566733</updated>
-      <workItem from="1554260568484" duration="6961000" />
+      <workItem from="1554260568484" duration="7204000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6961000" />
+    <option name="totallyTimeSpent" value="7204000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="51" y="27" width="1869" height="1053" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -275,7 +331,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="165">
-            <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+            <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
           </first_editor>
           <second_editor />
         </state>
